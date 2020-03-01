@@ -21,11 +21,20 @@ body{
     margin-top:20px;
     margin-bottom:20px;
 }
+
+@media (max-width=500px)
 img {
     max-width:20%;
     height:auto;
     padding: 5px
 }
+@media (min-width=501x)
+img {
+    max-width:100%;
+    height:auto;
+    padding: 5px
+}
+
 table{
     width: 30%;
     border: 1px solid #ddd;
