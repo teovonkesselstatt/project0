@@ -2,7 +2,7 @@
 
 Web Programming with Python and JavaScript
 
-## Project
+## About
 In this project, I decided to create a webpage about myself and my hobbies.
 
 ### index.html
